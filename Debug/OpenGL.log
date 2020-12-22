@@ -1,0 +1,67 @@
+﻿  Application.cpp
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(80,42): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(91,35): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(121,32): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(127,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(128,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(129,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(149,54): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(149,76): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(150,54): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(150,76): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(151,54): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(151,76): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(152,55): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(162,51): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(163,50): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\geometry.h(66,42): warning C4244: =: преобразование "U" в "T", возможна потеря данных
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(96): message : выполняется компиляция ссылки на экземпляр шаблон функции "vec<3,float> operator *<3,float,double>(const vec<3,float> &,const U &)"
+          with
+          [
+              U=double
+          ]
+  OpenGL.vcxproj -> C:\Users\Pyata\source\repos\OpenGL\Debug\OpenGL.exe
