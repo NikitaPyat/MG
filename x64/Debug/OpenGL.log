@@ -1,0 +1,2 @@
+﻿  Application.cpp
+C:\Users\Pyata\source\repos\OpenGL\OpenGL\src\Application.cpp(1,10): fatal error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
